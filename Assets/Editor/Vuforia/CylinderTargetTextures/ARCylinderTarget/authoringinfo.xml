@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="WineLabel" version="3.0" targetId="88604772b2404a729bbda0e35e42d6d2" sideLength="16.700001" topDiameter="7.000000" bottomDiameter="7.000000" sideImage="WineLabel.Body_scaled.jpg"/>
+        <CylinderTarget name="RedWineBottle" version="3.0" targetId="ea4f9a8a8f4d443c8c471d138dc0362b" sideLength="16.700001" topDiameter="7.000000" bottomDiameter="7.000000" sideImage="RedWineBottle.Body_scaled.jpg"/>
+        <CylinderTarget name="CoffeeCup" version="3.0" targetId="28de4b426c3943178a6e2009cece15ae" sideLength="0.150000" topDiameter="0.180000" bottomDiameter="0.110000" sideImage="CoffeeCup.Body_scaled.jpg"/>
+        <CylinderTarget name="StoneImage" version="3.0" targetId="5130ce520d8c40feb5f1c7e424ebf6ce" sideLength="24.000000" topDiameter="5.000000" bottomDiameter="5.000000" sideImage="StoneImage.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
